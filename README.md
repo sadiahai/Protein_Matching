@@ -1,10 +1,10 @@
 # Protein Marker Alignment Comparator
 This Python script compares multiple markers to a singular protein in order to identify which alignment of the marker relative to the protein produces the least amount of errors or the most matches.
 
-# # Inputs:
+### Inputs:
 PROTEIN: The protein sequence to which markers are compared.
 MARKERS: A list of marker sequences that will be compared to the protein.
-# # Output:
+### Output:
 The script outputs the best starting alignment and the number of errors for each marker at the given alignment.
 
 How it Works:
